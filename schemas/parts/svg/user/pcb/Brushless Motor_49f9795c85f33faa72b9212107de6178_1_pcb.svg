@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 285 235"  baseProfile="tiny" version="1.2" height="0.235in" id="svg2" width="0.285in" gorn="0">
+    <desc >
+        <referenceFile >TO92_3_100mil_pcb.svg</referenceFile>
+    </desc>
+    <desc  id="desc4">Fritzing footprint SVG</desc>
+    <g  id="silkscreen" gorn="0.2">
+        <line y2="50"  x1="80" x2="220" id="line7" y1="50" style="stroke:#ffffff;stroke-width:10" gorn="0.2.0"/>
+        <path d="M 232.61,156.154A 84.871323,52.651653 0 0 1 62.8732,156.756"  id="path2413" style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" gorn="0.2.1"/>
+    </g>
+    <g  id="copper1" gorn="0.3">
+        <g  id="copper0" gorn="0.3.0">
+            <circle r="27.5" cy="114"  id="connector1pin" style="fill:none;stroke:#ffbf00;stroke-width:20" cx="50" gorn="0.3.0.0"/>
+            <circle r="27.5" cy="114"  fill="none" stroke-width="20" id="connector2pin" stroke="#ffbf00" cx="150" gorn="0.3.0.1"/>
+            <circle r="27.5" cy="114"  id="connector3pin" style="fill:none;stroke:#ffbf00;stroke-width:20" cx="250" gorn="0.3.0.2"/>
+        </g>
+    </g>
+    <g  id="keepout" gorn="0.4"/>
+    <g  id="soldermask" gorn="0.5"/>
+    <g  id="outline" gorn="0.6"/>
+</svg>

@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Search.png" search="board">
+    <title>Search</title>
+    <instances>
+        <instance moduleIdRef="10x2-Epaper-Breakout-Board-v11" modelIndex="85411191" path="/usr/share/fritzing/parts/core/10x2-Epaper-Breakout-Board-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="5DOF-v25" modelIndex="85411192" path="/usr/share/fritzing/parts/core/5DOF-v25.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="6DOF-Digital-v10" modelIndex="85411193" path="/usr/share/fritzing/parts/core/6DOF-Digital-v10.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="74HC595 Shift Reg Breakout-v11" modelIndex="85411194" path="/usr/share/fritzing/parts/core/74HC595 Shift Reg Breakout-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="9DoF-Stick-v13" modelIndex="85411195" path="/usr/share/fritzing/parts/core/9DoF-Stick-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ACS712 Low Current Sensor Board v12" modelIndex="85411196" path="/usr/share/fritzing/parts/core/ACS712 Low Current Sensor Board v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ad5330 breakout-v11" modelIndex="85411197" path="/usr/share/fritzing/parts/core/ad5330 breakout-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Adafruit_Atmega32u4_Breakout" modelIndex="85411198" path="/usr/share/fritzing/parts/core/Adafruit_Atmega32u4_Breakout.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ADXL335_v13" modelIndex="85411199" path="/usr/share/fritzing/parts/core/ADXL335_v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ADXL345-BreakoutBoard-v13" modelIndex="85411200" path="/usr/share/fritzing/parts/core/ADXL345-BreakoutBoard-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="AlphaNumericDisplay-v13" modelIndex="85411201" path="/usr/share/fritzing/parts/core/AlphaNumericDisplay-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Amplified-Mic-Electret-v14" modelIndex="85411202" path="/usr/share/fritzing/parts/core/Amplified-Mic-Electret-v14.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Analog_Digital_MUX_Breakout" modelIndex="85411203" path="/usr/share/fritzing/parts/core/Analog_Digital_MUX_Breakout.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino Nano3(fix)" modelIndex="85411205" path="/usr/share/fritzing/parts/core/Arduino Nano3(fix).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino Nano3(icsp)" modelIndex="85411206" path="/usr/share/fritzing/parts/core/Arduino Nano3(icsp).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino Voice Shield-v16" modelIndex="85411208" path="/usr/share/fritzing/parts/core/Arduino Voice Shield-v16.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="blueIOT_RevB" modelIndex="85411209" path="/usr/share/fritzing/parts/core/Arduino-BLE-LowPower-RevB-final_5.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino-Ethernet-v11" modelIndex="85411211" path="/usr/share/fritzing/parts/core/Arduino-Ethernet-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino-Fio-v22(fix)_bottom" modelIndex="85411212" path="/usr/share/fritzing/parts/core/Arduino-Fio-v22(fix)-bottom.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino-Fio-v22(fix)" modelIndex="85411214" path="/usr/share/fritzing/parts/core/Arduino-Fio-v22(fix).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino-Fio-v22(icsp+)_bottom" modelIndex="85411215" path="/usr/share/fritzing/parts/core/Arduino-Fio-v22(iscp+)-bottom.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino-Fio-v22(icsp+)" modelIndex="85411217" path="/usr/share/fritzing/parts/core/Arduino-Fio-v22(iscp+).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="pcb-arduino-intel-galileo-half-pcb" modelIndex="85411219" path="/usr/share/fritzing/parts/core/arduino-intel-galileo-half-pcb-shape.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="pcb-arduino-intel-galileo-pcb" modelIndex="85411221" path="/usr/share/fritzing/parts/core/arduino-intel-galileo-pcb-shape.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="one_layer_Arduino_Mega_R3_PCB" modelIndex="85411223" path="/usr/share/fritzing/parts/core/arduino-mega-r3-shield_one_layer.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_Mega_Rev3_PCB" modelIndex="85411225" path="/usr/share/fritzing/parts/core/arduino-mega-rev3-shield_two_layer.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino-Mini-v5" modelIndex="85411227" path="/usr/share/fritzing/parts/core/Arduino-Mini-v5.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino-Pro-Mini-v13-a4+5" modelIndex="85411228" path="/usr/share/fritzing/parts/core/Arduino-Pro-Mini-v13-a4+5.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino-Pro-Mini3.3V" modelIndex="85411229" path="/usr/share/fritzing/parts/core/Arduino-Pro-Mini_3.3v-v14.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino-Pro-Mini.5v" modelIndex="85411230" path="/usr/share/fritzing/parts/core/Arduino-Pro-Mini_5v-v14.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="423120090505" modelIndex="85411232" path="/usr/share/fritzing/parts/core/arduino-shield.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="pcb-arduino-r3-shield" modelIndex="85411234" path="/usr/share/fritzing/parts/core/arduino-shield_r3_two_layer.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_ADK_MEGA_2560-Rev3(fix)" modelIndex="85411236" path="/usr/share/fritzing/parts/core/Arduino_ADK_MEGA_2560-Rev3(fix).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_ADK_MEGA_2560-Rev3(iscp)" modelIndex="85411237" path="/usr/share/fritzing/parts/core/Arduino_ADK_MEGA_2560-Rev3(icsp).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_bt07" modelIndex="85411239" path="/usr/share/fritzing/parts/core/Arduino_bt07.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino DUE V02b" modelIndex="85411240" path="/usr/share/fritzing/parts/core/Arduino_DUE_V02b.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_Esplora" modelIndex="85411241" path="/usr/share/fritzing/parts/core/Arduino_Esplora.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_Ethernet" modelIndex="85411242" path="/usr/share/fritzing/parts/core/Arduino_Ethernet.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_Leonardo_Rev3(fix)" modelIndex="85411243" path="/usr/share/fritzing/parts/core/Arduino_Leonardo_Rev3(fix).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_MEGA_2560-Rev3(fix)" modelIndex="85411244" path="/usr/share/fritzing/parts/core/Arduino_MEGA_2560-Rev3(fix).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_Micro_Rev03(fix)" modelIndex="85411245" path="/usr/share/fritzing/parts/core/Arduino_Micro_Rev03(fix).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino Motor Shield rev3" modelIndex="85411246" path="/usr/share/fritzing/parts/core/Arduino_Motor_Shield_rev3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino Pro" modelIndex="85411247" path="/usr/share/fritzing/parts/core/Arduino_Pro.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arduino_uno(rev3)-icsp_only" modelIndex="85411248" path="/usr/share/fritzing/parts/core/arduino_uno(rev3)-icsp(1).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arduino_uno(rev3)-icsp" modelIndex="85411250" path="/usr/share/fritzing/parts/core/arduino_uno(rev3)-icsp.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arduino_Uno_Rev3(fix)" modelIndex="85411252" path="/usr/share/fritzing/parts/core/arduino_Uno_Rev3(fix).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arduino_Yun(rev1)_v1" modelIndex="85411253" path="/usr/share/fritzing/parts/core/arduino_Yun(rev1)_v1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ArduinoBluetoothMatev13" modelIndex="85411254" path="/usr/share/fritzing/parts/core/ArduinoBluetoothMatev13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arduinoXbeere" modelIndex="85411255" path="/usr/share/fritzing/parts/core/arduinoXbeere.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Ardumoto v13" modelIndex="85411256" path="/usr/share/fritzing/parts/core/Ardumoto v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ArduPilotMega_v15" modelIndex="85411257" path="/usr/share/fritzing/parts/core/ArduPilotMega_v15.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_Debugger" modelIndex="85411258" path="/usr/share/fritzing/parts/core/atlas-sientific_Debugger.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_Pre-AssembledFemaleBNC" modelIndex="85411259" path="/usr/share/fritzing/parts/core/atlas-sientific_Pre-AssembledFemaleBNC.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_PWR-SNS" modelIndex="85411260" path="/usr/share/fritzing/parts/core/atlas-sientific_PWR-SNS.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_RJ-11" modelIndex="85411261" path="/usr/share/fritzing/parts/core/atlas-sientific_RJ-11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="audiojack_breakout-v11" modelIndex="85411262" path="/usr/share/fritzing/parts/core/audiojack_breakout-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="bareconductive_touchboard" modelIndex="85411263" path="/usr/share/fritzing/parts/core/bareconductive_touchboard.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="c624c0ff7a2eb1ca7994123ee87f58fb" modelIndex="85411264" path="/usr/share/fritzing/parts/core/BASIC_Stamp_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="760832bc79fe1f34e99f420ad872a0b8" modelIndex="85411265" path="/usr/share/fritzing/parts/core/BASIC_Stamp_2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="2d3cbb853835749c51cc0d6e4bfd2c90" modelIndex="85411266" path="/usr/share/fritzing/parts/core/BASIC_Stamp_2e.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="4d5dcc6408079f54cbda4d35e4d0b8fa" modelIndex="85411267" path="/usr/share/fritzing/parts/core/BASIC_Stamp_2p24.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="5f7b51547fafb902305f5b3cbb81bb74" modelIndex="85411268" path="/usr/share/fritzing/parts/core/BASIC_Stamp_2p40.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="f0d627984e1614e5c1c797471f529619" modelIndex="85411269" path="/usr/share/fritzing/parts/core/BASIC_Stamp_2pe.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="5cc9de9cdfa593d8e073514cde1c7c77" modelIndex="85411270" path="/usr/share/fritzing/parts/core/BASIC_Stamp_2px24.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="145b5412a0ffbe91a876166139419e15" modelIndex="85411271" path="/usr/share/fritzing/parts/core/BASIC_Stamp_2sx.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Bean_revE" modelIndex="85411272" path="/usr/share/fritzing/parts/core/Bean_revE.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="blueIOT_Rc1-final" modelIndex="85411273" path="/usr/share/fritzing/parts/core/blueIOT_Rc1-final.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="BMP085 Breakout-v13" modelIndex="85411274" path="/usr/share/fritzing/parts/core/BMP085 Breakout-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Breadboard Power Supply - SMD v12" modelIndex="85411275" path="/usr/share/fritzing/parts/core/Breadboard Power Supply - SMD v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="BreadboardModuleID" modelIndex="85411276" path="/usr/share/fritzing/parts/core/breadboard.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Breadboard-RSR03MB102-ModuleID" modelIndex="85411278" path="/usr/share/fritzing/parts/core/breadboard2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Buzzer-v15" modelIndex="85411279" path="/usr/share/fritzing/parts/core/Buzzer-v15.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="cellular shield-v12" modelIndex="85411280" path="/usr/share/fritzing/parts/core/cellular shield-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Cherry-MX-Keyswitch" modelIndex="85411281" path="/usr/share/fritzing/parts/core/Cherry-MX-Keyswitch.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="chipkit_BasicIOShield" modelIndex="85411283" path="/usr/share/fritzing/parts/core/chipkit_BasicIOShield.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="chipkit_MotorShield" modelIndex="85411285" path="/usr/share/fritzing/parts/core/chipkit_MotorShield.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="chipkit_MX4" modelIndex="85411287" path="/usr/share/fritzing/parts/core/chipkit_MX4.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="chipkit_WF32" modelIndex="85411289" path="/usr/share/fritzing/parts/core/chipkit_WF32.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Color-LCD-Shield-v14" modelIndex="85411290" path="/usr/share/fritzing/parts/core/Color-LCD-Shield-v14.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="17e42b0f30876b6ca457314cbd7e5847" modelIndex="85411291" path="/usr/share/fritzing/parts/core/Color_Sensor_Breakout_ADJD_S311.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="346b613c666d64fc5ac622407ace7130" modelIndex="85411292" path="/usr/share/fritzing/parts/core/controller_mbed.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="0d68adbdf34156383180850897173015" modelIndex="85411293" path="/usr/share/fritzing/parts/core/controller_pico.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="2c9d427b475ef8d07dc752a4362af0ae" modelIndex="85411295" path="/usr/share/fritzing/parts/core/controller_wiring.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="9801da71ed31be24b64d311bc9a1b0b0" modelIndex="85411296" path="/usr/share/fritzing/parts/core/controller_wiring_mini.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="DeadOn RTC - DS3234 Breakout-v11" modelIndex="85411298" path="/usr/share/fritzing/parts/core/DeadOn RTC - DS3234 Breakout-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="dquidio" modelIndex="85411299" path="/usr/share/fritzing/parts/core/dquidio.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="dquidio_GPRS" modelIndex="85411300" path="/usr/share/fritzing/parts/core/dquidio_GPRS.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="DRV8825_breakout" modelIndex="85411302" path="/usr/share/fritzing/parts/core/DRV8825_breakout.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="EasyDriver_v44" modelIndex="85411304" path="/usr/share/fritzing/parts/core/EasyDriver_v44.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="EDGY_motor_control" modelIndex="85411305" path="/usr/share/fritzing/parts/core/EDGY_motor_control.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ESP8266-Thing-Dev" modelIndex="85411306" path="/usr/share/fritzing/parts/core/ESP8266-Thing-Dev.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ESP8266_7" modelIndex="85411307" path="/usr/share/fritzing/parts/core/ESP8266_7.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="EspruinoPico" modelIndex="85411309" path="/usr/share/fritzing/parts/core/EspruinoPico_8fb644a5b6642112445ed6d90bc494d8_6.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="femtobuck" modelIndex="85411311" path="/usr/share/fritzing/parts/core/femtobuck.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="FTDI Basic-v13" modelIndex="85411312" path="/usr/share/fritzing/parts/core/FTDI Basic-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="FTDI Basic-v13_3.3v" modelIndex="85411313" path="/usr/share/fritzing/parts/core/FTDI Basic-v13_3.3v.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="FTDI Basic-v13_lily" modelIndex="85411315" path="/usr/share/fritzing/parts/core/FTDI Basic-v13_lily.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Gas_Sensor_Breakout-v12" modelIndex="85411317" path="/usr/share/fritzing/parts/core/Gas_Sensor_Breakout-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="c4256c251d53ee723058f86aa6d016a2" modelIndex="85411318" path="/usr/share/fritzing/parts/core/gogoboard 4.0.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="GPSShield-v15" modelIndex="85411319" path="/usr/share/fritzing/parts/core/GPSShield-v15.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="gs1011_breakout-v11" modelIndex="85411320" path="/usr/share/fritzing/parts/core/gs1011_breakout-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="GSM-Quectel_updateTID_2_v1.3" modelIndex="85411321" path="/usr/share/fritzing/parts/core/GSM-Quectel_updateTID_2_v1.3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="13f88e58b86d08d73d112f0fb05e6968" modelIndex="85411322" path="/usr/share/fritzing/parts/core/Half_breadboard.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="HalfBreadboardModuleID" modelIndex="85411324" path="/usr/share/fritzing/parts/core/halfBreadboard.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="HalfMinusBreadboardModuleID" modelIndex="85411326" path="/usr/share/fritzing/parts/core/halfMinusBreadboard.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="HIH-4030_Breakout-v10" modelIndex="85411328" path="/usr/share/fritzing/parts/core/HIH-4030_Breakout-v10.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="HMC5883L_Breakout-v11" modelIndex="85411329" path="/usr/share/fritzing/parts/core/HMC5883L_Breakout-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="HMC6352-v18" modelIndex="85411330" path="/usr/share/fritzing/parts/core/HMC6352-v18.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="bf73a00d2ecd04be25675ebfb2d130c0" modelIndex="85411331" path="/usr/share/fritzing/parts/core/Humidity_Sensor_SHT15.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="huzzah_esp8266" modelIndex="85411332" path="/usr/share/fritzing/parts/core/huzzah_esp8266.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="intel-arduino_galileo-(simple)" modelIndex="85411334" path="/usr/share/fritzing/parts/core/intel-arduino_galileo-simple.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="intel-arduino_galileo" modelIndex="85411335" path="/usr/share/fritzing/parts/core/intel-arduino_galileo.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="intel-arduino_galileo_gen2-(simple)" modelIndex="85411337" path="/usr/share/fritzing/parts/core/intel-arduino_galileo_gen2-simple.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="intel-arduino_galileo_gen2" modelIndex="85411338" path="/usr/share/fritzing/parts/core/intel-arduino_galileo_gen2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="intelEdison-HiroseDF40" modelIndex="85411340" path="/usr/share/fritzing/parts/core/intel_edison-hirosedf40.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="intel_edison_arduinobreakout" modelIndex="85411341" path="/usr/share/fritzing/parts/core/intel_edison_arduinobreakout.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="intel_edison_minibreakout_bottom_fix" modelIndex="85411342" path="/usr/share/fritzing/parts/core/intel_edison_minibreakout-bottom_fix.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="intel_edison_minibreakout_fix" modelIndex="85411344" path="/usr/share/fritzing/parts/core/intel_edison_minibreakout_fix.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="IOIO-v15" modelIndex="85411346" path="/usr/share/fritzing/parts/core/IOIO-v15.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ISD1932 Breakout-v11" modelIndex="85411347" path="/usr/share/fritzing/parts/core/ISD1932 Breakout-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ITG-3200-v11" modelIndex="85411348" path="/usr/share/fritzing/parts/core/ITG-3200-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="jlpcb-089" modelIndex="85411349" path="/usr/share/fritzing/parts/core/jlpcb-089.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="jlpcb-104" modelIndex="85411350" path="/usr/share/fritzing/parts/core/jlpcb-104.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="jlpcb-128" modelIndex="85411351" path="/usr/share/fritzing/parts/core/jlpcb-128.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Joystick-Breakout-v11" modelIndex="85411352" path="/usr/share/fritzing/parts/core/Joystick-Breakout-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="L3G4200D-Breakout-v10" modelIndex="85411353" path="/usr/share/fritzing/parts/core/L3G4200D-Breakout-v10.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Button-LED-Breakout-v10" modelIndex="85411354" path="/usr/share/fritzing/parts/core/LED Tactile Button Breakout v10.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Level-Converter-v11" modelIndex="85411355" path="/usr/share/fritzing/parts/core/Level-Converter-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="pcb-lightblue-bean-shield" modelIndex="85411356" path="/usr/share/fritzing/parts/core/lightblue-bean-shield_two_layer.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LilyPad Battery-Connect-v11" modelIndex="85411358" path="/usr/share/fritzing/parts/core/LilyPad Battery-Connect-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LilyPad Coincell-Battery-v17" modelIndex="85411359" path="/usr/share/fritzing/parts/core/LilyPad Coincell-Battery-v17.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LilyPad SimplePower-v13" modelIndex="85411360" path="/usr/share/fritzing/parts/core/LilyPad SimplePower-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LilyPad Vibe Motor" modelIndex="85411361" path="/usr/share/fritzing/parts/core/Lilypad Vibe Motor.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LilyPad-Accelerometer-v17" modelIndex="85411362" path="/usr/share/fritzing/parts/core/LilyPad-Accelerometer-v17.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LilyPad-Button-v12" modelIndex="85411363" path="/usr/share/fritzing/parts/core/LilyPad-Button-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LilyPad-Light Sensor-v13" modelIndex="85411364" path="/usr/share/fritzing/parts/core/LilyPad-Light Sensor-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LilyPad-Simple-v25" modelIndex="85411365" path="/usr/share/fritzing/parts/core/LilyPad-Simple-v25.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LilyPad-slide-switch13" modelIndex="85411366" path="/usr/share/fritzing/parts/core/LilyPad-slide-switch13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LilyPad-Temp-v12" modelIndex="85411367" path="/usr/share/fritzing/parts/core/LilyPad-Temp-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LilyPad-XBee-v15" modelIndex="85411368" path="/usr/share/fritzing/parts/core/LilyPad-XBee-v15.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LilyPad_Arduino_USB" modelIndex="85411370" path="/usr/share/fritzing/parts/core/LilyPad_Arduino_USB.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LilyPad_LED-v14" modelIndex="85411371" path="/usr/share/fritzing/parts/core/LilyPad_LED-v14.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Lilypad_PowerSupply-v18" modelIndex="85411372" path="/usr/share/fritzing/parts/core/Lilypad_PowerSupply-v18.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="linino_dogrj45" modelIndex="85411373" path="/usr/share/fritzing/parts/core/linino_dogrj45(01).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="linino_dogUSB" modelIndex="85411375" path="/usr/share/fritzing/parts/core/linino_dogUSB(01).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="linino_one_rev1" modelIndex="85411377" path="/usr/share/fritzing/parts/core/linino_one(rev1).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LiPo-USB-Charger-v21" modelIndex="85411378" path="/usr/share/fritzing/parts/core/LiPo-USB-Charger-v21.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LSM303 breakout board-v11" modelIndex="85411379" path="/usr/share/fritzing/parts/core/LSM303 breakout board-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ludusProtoShield" modelIndex="85411380" path="/usr/share/fritzing/parts/core/ludusProtoShield.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ludusProtoShieldWireless" modelIndex="85411381" path="/usr/share/fritzing/parts/core/ludusProtoShieldWireless.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino Lilypad" modelIndex="85411382" path="/usr/share/fritzing/parts/core/Mainboard-v18.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="mega_pro-v13" modelIndex="85411383" path="/usr/share/fritzing/parts/core/mega_pro-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Mega_Shield-v13" modelIndex="85411385" path="/usr/share/fritzing/parts/core/Mega_Shield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Micro-Python-pyboard-PYBv10b_fix" modelIndex="85411386" path="/usr/share/fritzing/parts/core/Micro-Python-pyboard-PYBv10b_fix.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="microSD_Shield-v13" modelIndex="85411388" path="/usr/share/fritzing/parts/core/microSD_Shield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MIDI Music Shield-v13" modelIndex="85411389" path="/usr/share/fritzing/parts/core/MIDI Music Shield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MIDI_Shield-v13" modelIndex="85411390" path="/usr/share/fritzing/parts/core/MIDI_Shield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MiniBreadboardModuleID" modelIndex="85411392" path="/usr/share/fritzing/parts/core/miniBreadboard.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Modkit Shield-v1a" modelIndex="85411394" path="/usr/share/fritzing/parts/core/Modkit Shield-v1a.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MonsterMoto-Shield-v12" modelIndex="85411395" path="/usr/share/fritzing/parts/core/MonsterMoto-Shield-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="TB6612FNG Breakout v11" modelIndex="85411396" path="/usr/share/fritzing/parts/core/Motor Driver 1A Dual TB6612FNG v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="mp3-trigger-v22" modelIndex="85411397" path="/usr/share/fritzing/parts/core/mp3-trigger-v22.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MPL3115A2" modelIndex="85411398" path="/usr/share/fritzing/parts/core/MPL3115A2_breakout.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MPR121-Breakout-v13" modelIndex="85411400" path="/usr/share/fritzing/parts/core/MPR121-Breakout-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="NCP1400_5V_Step-Up_v11" modelIndex="85411401" path="/usr/share/fritzing/parts/core/NCP1400_5V_Step-Up_v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="42D46DE18C0F4AD2B55547E24C93125A" modelIndex="85411402" path="/usr/share/fritzing/parts/core/Netduino.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="37E5C8D507334A9E94A6DE1EBB3D272F" modelIndex="85411404" path="/usr/share/fritzing/parts/core/NetduinoMini.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="710CCDDF9B0340C2977584EE6F1F98F7" modelIndex="85411406" path="/usr/share/fritzing/parts/core/NetduinoPlus.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Netduino_plus_2" modelIndex="85411408" path="/usr/share/fritzing/parts/core/NetduinoPlus2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="NRF24L01+_breakout" modelIndex="85411409" path="/usr/share/fritzing/parts/core/NRF24L01+_breakout.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="OBD-II-UART-v13" modelIndex="85411411" path="/usr/share/fritzing/parts/core/OBD-II-UART-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Op Amp Breakout-v16" modelIndex="85411412" path="/usr/share/fritzing/parts/core/Op Amp Breakout-v16.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="cb9c6041c0b15c9c1a63560527d7693a" modelIndex="85411413" path="/usr/share/fritzing/parts/core/Peppermill Power Board.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="PHOTON_fix" modelIndex="85411414" path="/usr/share/fritzing/parts/core/PHOTON_fix.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="83fdcaa81d3a1b40d252954136f96f24" modelIndex="85411416" path="/usr/share/fritzing/parts/core/PIC_16F877A.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RevEd_PICAXE_08" modelIndex="85411417" path="/usr/share/fritzing/parts/core/PICAXE_08.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RevEd_PICAXE_08M" modelIndex="85411418" path="/usr/share/fritzing/parts/core/PICAXE_08M.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RevEd_PICAXE_14M" modelIndex="85411419" path="/usr/share/fritzing/parts/core/PICAXE_14M.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RevEd_PICAXE_18" modelIndex="85411420" path="/usr/share/fritzing/parts/core/PICAXE_18.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RevEd_PICAXE_18A" modelIndex="85411421" path="/usr/share/fritzing/parts/core/PICAXE_18A.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RevEd_PICAXE_18M" modelIndex="85411422" path="/usr/share/fritzing/parts/core/PICAXE_18M.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RevEd_PICAXE_18X" modelIndex="85411423" path="/usr/share/fritzing/parts/core/PICAXE_18X.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RevEd_PICAXE_20M" modelIndex="85411424" path="/usr/share/fritzing/parts/core/PICAXE_20M.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RevEd_PICAXE_20X2" modelIndex="85411425" path="/usr/share/fritzing/parts/core/PICAXE_20X2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RevEd_PICAXE_28" modelIndex="85411426" path="/usr/share/fritzing/parts/core/PICAXE_28.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RevEd_PICAXE_28A" modelIndex="85411427" path="/usr/share/fritzing/parts/core/PICAXE_28A.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RevEd_PICAXE_28X" modelIndex="85411428" path="/usr/share/fritzing/parts/core/PICAXE_28X.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RevEd_PICAXE_28X1" modelIndex="85411429" path="/usr/share/fritzing/parts/core/PICAXE_28X1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RevEd_PICAXE_28X2" modelIndex="85411430" path="/usr/share/fritzing/parts/core/PICAXE_28X2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RevEd_PICAXE_28X2_3V" modelIndex="85411431" path="/usr/share/fritzing/parts/core/PICAXE_28X2_3V.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RevEd_PICAXE_40X" modelIndex="85411432" path="/usr/share/fritzing/parts/core/PICAXE_40X.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RevEd_PICAXE_40X1" modelIndex="85411433" path="/usr/share/fritzing/parts/core/PICAXE_40X1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RevEd_PICAXE_40X2" modelIndex="85411434" path="/usr/share/fritzing/parts/core/PICAXE_40X2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RevEd_PICAXE_40X2_3V" modelIndex="85411435" path="/usr/share/fritzing/parts/core/PICAXE_40X2_3V.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="pinoccio-proto_board" modelIndex="85411436" path="/usr/share/fritzing/parts/core/pinoccio-proto.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="pinoccio_board" modelIndex="85411438" path="/usr/share/fritzing/parts/core/pinoccio.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="pololu0002_a988" modelIndex="85411439" path="/usr/share/fritzing/parts/core/pololu0002_a988.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Power Screwshield 1.0a" modelIndex="85411441" path="/usr/share/fritzing/parts/core/Power Screwshield 1.0a.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="PowerCell-v13" modelIndex="85411442" path="/usr/share/fritzing/parts/core/PowerCell Lipo Charger Booster v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="PowerDriver-Shield-v13" modelIndex="85411443" path="/usr/share/fritzing/parts/core/PowerDriver-Shield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="PowerSupply-Lipo-v15" modelIndex="85411444" path="/usr/share/fritzing/parts/core/PowerSupply-Lipo-v15.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Proto_shield_REV3" modelIndex="85411445" path="/usr/share/fritzing/parts/core/Proto_shield_REV3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ProtoShield-v25" modelIndex="85411446" path="/usr/share/fritzing/parts/core/ProtoShield-v25.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="PWM-Shield-v12" modelIndex="85411447" path="/usr/share/fritzing/parts/core/PWM-Shield-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="quadstep-v12" modelIndex="85411448" path="/usr/share/fritzing/parts/core/quadstep-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="raspberry_pi_3_rev-1.2" modelIndex="85411449" path="/usr/share/fritzing/parts/core/Raspberry Pi 3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="raspberry_pi_zero_rev-1.1" modelIndex="85411450" path="/usr/share/fritzing/parts/core/Raspberry Pi Zero.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Raspberry_Pi_2_v1.1" modelIndex="85411451" path="/usr/share/fritzing/parts/core/Raspberry_Pi_2_v1.1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Raspberry Pi A" modelIndex="85411452" path="/usr/share/fritzing/parts/core/Raspberry_Pi_A.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Raspberry Pi B(rev1)" modelIndex="85411453" path="/usr/share/fritzing/parts/core/Raspberry_Pi_B(rev1).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Raspberry Pi B(rev2)" modelIndex="85411454" path="/usr/share/fritzing/parts/core/Raspberry_Pi_B(rev2).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Raspberry Pi B+" modelIndex="85411455" path="/usr/share/fritzing/parts/core/Raspberry_Pi_B+.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="raspberrypi-b+-pcb-shape" modelIndex="85411456" path="/usr/share/fritzing/parts/core/raspberrypi-b+-pcb-shape.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="raspberrypi-pcb-shape" modelIndex="85411457" path="/usr/share/fritzing/parts/core/raspberrypi-pcb-shape.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Real_Time_Clock_Module___DS1307_RTC_Breakout_Board" modelIndex="85411458" path="/usr/share/fritzing/parts/core/Real_Time_Clock_Module___DS1307_RTC_Breakout_Board.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RFduinoSMD_fix" modelIndex="85411459" path="/usr/share/fritzing/parts/core/RFduinoSMD_fix.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="2bbfed89356b4ec4a94ac6cee00e301f" modelIndex="85411461" path="/usr/share/fritzing/parts/core/RFM12B_Transceiver_DIP_Package.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Rotoshield-1.0a" modelIndex="85411462" path="/usr/share/fritzing/parts/core/Rotoshield-1.0a.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arch_pro_v1" modelIndex="85411463" path="/usr/share/fritzing/parts/core/seeed_arch_pro_v1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arch_v1.1" modelIndex="85411464" path="/usr/share/fritzing/parts/core/seeed_arch_v1.1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="seeeduino_v3" modelIndex="85411465" path="/usr/share/fritzing/parts/core/seeed_seeeduino_v3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Shield_Eth06-PoE" modelIndex="85411466" path="/usr/share/fritzing/parts/core/Shield_Eth06-PoE.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SHT1x-Breakout" modelIndex="85411467" path="/usr/share/fritzing/parts/core/SHT1x-Breakout.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Si470x-Eval-v11" modelIndex="85411468" path="/usr/share/fritzing/parts/core/Si470x-Eval-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SI4735 Shield-v13" modelIndex="85411469" path="/usr/share/fritzing/parts/core/SI4735 Shield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="sodaq_mbili_rev4 (4)" modelIndex="85411470" path="/usr/share/fritzing/parts/core/sodaq_mbili_rev4 (4).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="sparkcore-pcb-shape" modelIndex="85411471" path="/usr/share/fritzing/parts/core/sparkcore-pcb-shape.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SPARKCORE_v1_fix" modelIndex="85411473" path="/usr/share/fritzing/parts/core/SPARKCORE_v1_fix.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun Load Sensor Combinator" modelIndex="85411474" path="/usr/share/fritzing/parts/core/SparkFun Load Sensor Combinator.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-AnalogIC-DAC_MCP4725-SOT" modelIndex="85411475" path="/usr/share/fritzing/parts/core/sparkfun-analogic-dac_mcp4725-sot.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Boards-WIZ811MJ-" modelIndex="85411476" path="/usr/share/fritzing/parts/core/sparkfun-boards-wiz811mj-.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Boards-XPORT-" modelIndex="85411477" path="/usr/share/fritzing/parts/core/sparkfun-boards-xport-.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Boards-XPORT-DIRECT-" modelIndex="85411478" path="/usr/share/fritzing/parts/core/sparkfun-boards-xport-direct-.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Boards-XPORT-DIRECT-SMD" modelIndex="85411479" path="/usr/share/fritzing/parts/core/sparkfun-boards-xport-direct-smd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-BC9VPC-" modelIndex="85411481" path="/usr/share/fritzing/parts/core/sparkfun-connectors-bc9vpc-.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-EM408_CON-" modelIndex="85411482" path="/usr/share/fritzing/parts/core/sparkfun-connectors-em408_con-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-LITTLEBITS_FEMALE-" modelIndex="85411483" path="/usr/share/fritzing/parts/core/sparkfun-connectors-littlebits_female-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-LITTLEBITS_MALE-" modelIndex="85411484" path="/usr/share/fritzing/parts/core/sparkfun-connectors-littlebits_male-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-MINI-DIN6-PTH" modelIndex="85411485" path="/usr/share/fritzing/parts/core/sparkfun-connectors-mini-din6-pth.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-SMA_EDGE-" modelIndex="85411486" path="/usr/share/fritzing/parts/core/sparkfun-connectors-sma_edge-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-STARBOARD_GND--SMALL" modelIndex="85411487" path="/usr/share/fritzing/parts/core/sparkfun-connectors-starboard_gnd--small.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-STARBOARD_GND--SMALL2" modelIndex="85411489" path="/usr/share/fritzing/parts/core/sparkfun-connectors-starboard_gnd--small2.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-STARBOARD_GND--WIDE" modelIndex="85411490" path="/usr/share/fritzing/parts/core/sparkfun-connectors-starboard_gnd--wide.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-STARBOARD_GND-" modelIndex="85411492" path="/usr/share/fritzing/parts/core/sparkfun-connectors-starboard_gnd-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-STARBOARD_PWR--TALL" modelIndex="85411494" path="/usr/share/fritzing/parts/core/sparkfun-connectors-starboard_pwr--tall.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-STARBOARD_PWR--WIDE" modelIndex="85411495" path="/usr/share/fritzing/parts/core/sparkfun-connectors-starboard_pwr--wide.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BUTTONPAD-2X2SINGLE-" modelIndex="85411497" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-buttonpad-2x2single-.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BUTTONPAD-2X2SINGLE-KIT" modelIndex="85411499" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-buttonpad-2x2single-kit.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LED-SMD_RGB(WS2812)" modelIndex="85411500" path="/usr/share/fritzing/parts/core/sparkfun-led-WS2812.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-RF-EM408_OUTLINE-" modelIndex="85411502" path="/usr/share/fritzing/parts/core/sparkfun-rf-em408_outline-.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-RF-RF24G-" modelIndex="85411503" path="/usr/share/fritzing/parts/core/sparkfun-rf-rf24g-.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun_BME280_Breakout" modelIndex="85411504" path="/usr/share/fritzing/parts/core/SparkFun_BME280_Breakout.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun_LSM303C_6_DOF_IMU_Breakout" modelIndex="85411505" path="/usr/share/fritzing/parts/core/SparkFun_LSM303C_6_DOF_IMU_Breakout.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun_MIDI_Shield" modelIndex="85411506" path="/usr/share/fritzing/parts/core/SparkFun_MIDI_Shield.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun_Soil_Moisture_Sensor" modelIndex="85411507" path="/usr/share/fritzing/parts/core/SparkFun_Soil_Moisture_Sensor.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun_Stepoko" modelIndex="85411508" path="/usr/share/fritzing/parts/core/SparkFun_Stepoko.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="sparkfun_storage_microsd" modelIndex="85411509" path="/usr/share/fritzing/parts/core/sparkfun_storage_microsd.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Sparkfun_TiltaWhirl" modelIndex="85411511" path="/usr/share/fritzing/parts/core/Sparkfun_Tilt-a-Whirl.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="STM32_Nucleo_board" modelIndex="85411513" path="/usr/share/fritzing/parts/core/STM32_Nucleo_board.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="sx1509-breakout" modelIndex="85411515" path="/usr/share/fritzing/parts/core/sx1509-breakout.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="288ea56ea458fbe4774256402d9b0e34" modelIndex="85411516" path="/usr/share/fritzing/parts/core/Teensy 2.0 ++.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="a0bc75e3536cc51ac28b344cead00745" modelIndex="85411518" path="/usr/share/fritzing/parts/core/Teensy 2.0.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Teensy3.0+pads" modelIndex="85411520" path="/usr/share/fritzing/parts/core/Teensy 3.0+pads.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Teensy3.0" modelIndex="85411522" path="/usr/share/fritzing/parts/core/Teensy 3.0.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="teensy_3.1" modelIndex="85411524" path="/usr/share/fritzing/parts/core/teensy_3.1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="TEMT6000_Breakout-v12" modelIndex="85411525" path="/usr/share/fritzing/parts/core/TEMT6000_Breakout-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ThermalPrinter" modelIndex="85411526" path="/usr/share/fritzing/parts/core/thermalprinter.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ti_launchpad-rev1.5" modelIndex="85411527" path="/usr/share/fritzing/parts/core/TI Launchpad MSP430G2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="TinyBreadboardModuleID" modelIndex="85411528" path="/usr/share/fritzing/parts/core/tinyBreadboard.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="TMP102_Breakout-v11" modelIndex="85411530" path="/usr/share/fritzing/parts/core/TMP102_Breakout-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Touch_Shield-v11" modelIndex="85411531" path="/usr/share/fritzing/parts/core/Touch_Shield-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="1de0685180965d3848aca197945d624e" modelIndex="85411532" path="/usr/share/fritzing/parts/core/TPA2000D1 Audio Amplifier dip double.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Trackballer-v12" modelIndex="85411533" path="/usr/share/fritzing/parts/core/Trackballer-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Tricolor-LED v16" modelIndex="85411534" path="/usr/share/fritzing/parts/core/Tricolor-LED v16.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="TRRS_Breakout-v10" modelIndex="85411535" path="/usr/share/fritzing/parts/core/TRRS 3.5mm Jack Breakout v10.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="udoo_dual" modelIndex="85411536" path="/usr/share/fritzing/parts/core/udoo_dual.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="FINALWEIO_ff7656622014dbb325626f2fefde52eb_1" modelIndex="85411537" path="/usr/share/fritzing/parts/core/WeIO.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="WeMos_D1_mini_fixed" modelIndex="85411539" path="/usr/share/fritzing/parts/core/WeMos-D1-mini-female-headers-above_fixed.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="WeMos_D1_mini_male_headers_above_fix" modelIndex="85411541" path="/usr/share/fritzing/parts/core/WeMos-D1-mini-male-headers-above_fixed.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Wireless_SD_v3" modelIndex="85411543" path="/usr/share/fritzing/parts/core/Wireless_SD_v3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="b7c86ac27f1d86eafa64253206dff603" modelIndex="85411544" path="/usr/share/fritzing/parts/core/Wiring_S.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="XBee-Regulated-v12" modelIndex="85411546" path="/usr/share/fritzing/parts/core/XBee-Regulated-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="xbeeshield-v13" modelIndex="85411547" path="/usr/share/fritzing/parts/core/xbeeshield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="c46f1ec52c4917dd6e7aa12d7b7d66ea" modelIndex="85411548" path="/usr/share/fritzing/parts/obsolete/Arduino Nano.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="raspberry_pi_3_rev-1.2_93cd6203faf853cc01c7e5d7831d3687_3" modelIndex="85411550" path="/usr/share/fritzing/parts/obsolete/Raspberry Pi 3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="30.20PerfboardModuleID" modelIndex="85411551" path=":/resources/parts/core/30.20PerfboardModuleID.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="30.20Stripboard2ModuleID" modelIndex="85411552" path=":/resources/parts/core/30.20Stripboard2ModuleID.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="30.20StripboardModuleID" modelIndex="85411553" path=":/resources/parts/core/30.20StripboardModuleID.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="BoardLogoImageModuleID" modelIndex="85411555" path=":/resources/parts/core/boardlogoimage.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="OneLayerBoardLogoImageModuleID" modelIndex="85411557" path=":/resources/parts/core/boardlogoimage_one_layer.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="newBreadboardLogoImageModuleID" modelIndex="85411559" path=":/resources/parts/core/breadboardlogoimage.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="BreadboardLogoTextModuleID" modelIndex="85411561" path=":/resources/parts/core/breadboardlogotext.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="newCopper0LogoImageModuleID" modelIndex="85411564" path=":/resources/parts/core/copper0logoimage.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Copper0LogoTextModuleID" modelIndex="85411565" path=":/resources/parts/core/copper0logotext.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="newCopper1LogoImageModuleID" modelIndex="85411569" path=":/resources/parts/core/copper1logoimage.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Copper1LogoTextModuleID" modelIndex="85411570" path=":/resources/parts/core/copper1logotext.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="EllipsePCBModuleID" modelIndex="85411572" path=":/resources/parts/core/ellipse_pcb.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="TwoLayerEllipsePCBModuleID" modelIndex="85411574" path=":/resources/parts/core/ellipse_pcb_two_layers.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="newLogoImageModuleID" modelIndex="85411576" path=":/resources/parts/core/logoimage.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LogoTextModuleID" modelIndex="85411578" path=":/resources/parts/core/logotext.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="newBreadboardLogoImageModuleID" modelIndex="85411579" path=":/resources/parts/core/newbreadboardlogoimage.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="newCopper0LogoImageModuleID" modelIndex="85411580" path=":/resources/parts/core/newcopper0logoimage.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="newCopper1LogoImageModuleID" modelIndex="85411581" path=":/resources/parts/core/newcopper1logoimage.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="newLogoImageModuleID" modelIndex="85411582" path=":/resources/parts/core/newlogoimage.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="newSilkscreen0LogoImageModuleID" modelIndex="85411583" path=":/resources/parts/core/newsilkscreen0logoimage.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RectanglePCBModuleID" modelIndex="85411585" path=":/resources/parts/core/rectangle_pcb.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="TwoLayerRectanglePCBModuleID" modelIndex="85411586" path=":/resources/parts/core/rectangle_pcb_two_layers.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RoundRectPCBModuleID" modelIndex="85411588" path=":/resources/parts/core/roundrect_pcb.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="TwoLayerRoundRectPCBModuleID" modelIndex="85411590" path=":/resources/parts/core/roundrect_pcb_two_layers.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="newSilkscreen0LogoImageModuleID" modelIndex="85411592" path=":/resources/parts/core/silkscreen0logoimage.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Silkscreen0LogoTextModuleID" modelIndex="85411594" path=":/resources/parts/core/silkscreen0logotext.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>

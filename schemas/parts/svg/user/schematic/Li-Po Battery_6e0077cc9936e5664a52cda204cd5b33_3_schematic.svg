@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 7.874 18.0269" x="0in"  version="1.2" baseProfile="tiny" height="0.709722in" y="0in" width="0.31in">
+    <desc >
+        <referenceFile >sparkfun-electromechanical_fkit-battery_schematic.svg</referenceFile>
+    </desc>
+    <g  id="schematic" gorn="0.1">
+        <line class="other" y2="5.20347"  stroke-linecap="round" x1="0.127" x2="3.937" stroke-width="0.254" y1="5.20347" stroke="#000000"/>
+        <line class="other" y2="5.20347"  stroke-linecap="round" x1="3.937" x2="7.747" stroke-width="0.254" y1="5.20347" stroke="#000000"/>
+        <line class="other" y2="6.72747"  stroke-linecap="round" x1="1.905" x2="5.969" stroke-width="0.254" y1="6.72747" stroke="#000000"/>
+        <line class="other" y2="8.25147"  stroke-linecap="round" x1="0.127" x2="7.747" stroke-width="0.254" y1="8.25147" stroke="#000000"/>
+        <line class="other" y2="9.77547"  stroke-linecap="round" x1="1.905" x2="5.969" stroke-width="0.254" y1="9.77547" stroke="#000000"/>
+        <line class="other" y2="11.2995"  stroke-linecap="round" x1="0.127" x2="7.747" stroke-width="0.254" y1="11.2995" stroke="#000000"/>
+        <line class="other" y2="12.8235"  stroke-linecap="round" x1="1.905" x2="3.937" stroke-width="0.254" y1="12.8235" stroke="#000000"/>
+        <line class="other" y2="12.8235"  stroke-linecap="round" x1="3.937" x2="5.969" stroke-width="0.254" y1="12.8235" stroke="#000000"/>
+        <line class="other" y2="12.8235"  stroke-linecap="round" x1="3.937" x2="3.937" stroke-width="0.254" y1="15.3635" stroke="#000000"/>
+        <line class="other" y2="5.20347"  stroke-linecap="round" x1="3.937" x2="3.937" stroke-width="0.254" y1="2.66347" stroke="#000000"/>
+        <line class="pin" connectorname="NEG" y2="15.3635"  stroke-linecap="round" x1="3.937" x2="3.937" id="connector0pin" stroke-width="0.246944" y1="17.9035" stroke="#787878" gorn="0.1.10"/>
+        <rect class="terminal" x="3.937"  fill="none" height="0.0001" id="connector0terminal" stroke-width="0" stroke="none" y="17.9035" width="0.0001" gorn="0.1.11"/>
+        <g  transform="translate(3.56658,16.6335)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g  transform="rotate(270)">
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <text class="text" x="0"  fill="#8c8c8c" stroke-width="0" text-anchor="middle" font-family="Droid Sans" stroke="none" font-size="0.881944" y="0">1</text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <line class="pin" connectorname="POS" y2="2.66347"  stroke-linecap="round" x1="3.937" x2="3.937" id="connector1pin" stroke-width="0.246944" y1="0.123472" stroke="#787878" gorn="0.1.13"/>
+        <rect class="terminal" x="3.937"  fill="none" height="0.0001" id="connector1terminal" stroke-width="0" stroke="none" y="0.123472" width="0.0001" gorn="0.1.14"/>
+        <g  transform="translate(3.56658,1.39347)">
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g  transform="rotate(270)">
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <text class="text" x="0"  fill="#8c8c8c" stroke-width="0" text-anchor="middle" font-family="Droid Sans" stroke="none" font-size="0.881944" y="0">2</text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg>
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" clip-rule="evenodd" viewBox="0 0 4000 3000"  version="1.1" text-rendering="geometricPrecision" height="3in" shape-rendering="geometricPrecision" width="4in" image-rendering="optimizeQuality" fill-rule="evenodd">
+    <desc >
+        <referenceFile >BLDC.svg</referenceFile>
+    </desc>
+    <g  id="Layer_x0020_1" gorn="0.1">
+        <metadata  id="CorelCorpID_0Corel-Layer"/>
+        <rect x="351"  fill="#96989A" height="64.7362" id="connector1pin" y="990" width="165.677" gorn="0.1.1"/>
+        <rect x="303"  fill="#96989A" height="64.7362" id="connector2pin" y="1460" width="165.677" gorn="0.1.2"/>
+        <rect x="347"  fill="#848688" height="64.7362" id="connector3pin" y="1932" width="165.677" gorn="0.1.3"/>
+    </g>
+    <g  id="Layer_x0020_1_0" gorn="0.2">
+        <metadata  id="CorelCorpID_1Corel-Layer"/>
+        <path d="M1318 1038c0,0 0,0 0,0 6,0 11,-8 11,-17 0,-8 -5,-15 -11,-15 0,0 0,0 0,0l-807 0c0,0 0,0 0,0 -6,0 -11,7 -11,15 0,9 5,17 11,17 0,0 0,0 0,0l807 0z"  fill="#ED3237"/>
+        <path d="M1211 1507c0,0 0,0 0,0 5,0 10,-7 10,-15 0,-9 -5,-16 -10,-16 0,0 0,0 0,0l-743 0c0,-1 0,0 0,0 -6,0 -10,7 -10,16 0,8 4,15 10,15 0,0 0,0 0,0l743 0z"  fill="#FFF212"/>
+        <path d="M1318 1981c0,0 0,0 0,0 6,0 11,-7 11,-16 0,-9 -5,-16 -11,-16 0,0 0,0 0,0l-807 0c0,0 0,0 0,0 -6,0 -11,7 -11,16 0,9 5,16 11,16 0,0 0,0 0,0l807 0z"  fill="#373435"/>
+        <circle cy="1493" r="1197"  fill="#FFA726" stroke-width="6.94488" stroke="#373435" cx="2414"/>
+        <circle cy="1493" r="188"  fill="#373435" stroke-width="6.94488" stroke="#373435" cx="2414"/>
+        <path d="M2414 1157c28,-6 41,-29 50,-52l245 -613c6,-16 -7,-39 -33,-39l-524 0c-26,0 -40,23 -33,39l245 613c8,23 21,46 50,52l0 0z"  fill="#373435" stroke-width="6.94488" stroke="#373435"/>
+        <path d="M2123 1325c9,-27 -5,-50 -20,-69l-409 -519c-10,-14 -37,-13 -50,9l-262 454c-13,22 0,46 17,48l654 95c24,3 50,4 70,-18l0 0z"  fill="#373435" stroke-width="6.94488" stroke="#373435"/>
+        <path d="M2123 1661c-20,-21 -46,-21 -70,-17l-654 94c-17,3 -30,26 -17,49l262 453c13,23 40,23 50,10l409 -519c15,-19 29,-42 20,-70l0 0z"  fill="#373435" stroke-width="6.94488" stroke="#373435"/>
+        <path d="M2414 1830c-29,6 -42,28 -50,52l-245 612c-7,17 7,40 33,40l524 0c26,0 39,-23 33,-40l-245 -612c-9,-24 -22,-46 -50,-52l0 0z"  fill="#373435" stroke-width="6.94488" stroke="#373435"/>
+        <path d="M2705 1661c-9,28 4,51 20,70l408 519c11,13 38,13 51,-10l261 -453c14,-23 1,-46 -17,-49l-653 -94c-24,-4 -50,-4 -70,17l0 0z"  fill="#373435" stroke-width="6.94488" stroke="#373435"/>
+        <path d="M2705 1325c20,22 46,21 70,18l653 -95c18,-2 31,-26 17,-48l-261 -454c-13,-22 -40,-23 -51,-9l-408 519c-16,19 -29,42 -20,69l0 0z"  fill="#373435" stroke-width="6.94488" stroke="#373435"/>
+        <circle cy="1493" r="80"  fill="#A9ABAE" stroke-width="6.94488" stroke="#373435" cx="2414"/>
+    </g>
+</svg>

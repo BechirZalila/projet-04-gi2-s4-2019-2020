@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Mine.png">
+    <title>My Parts</title>
+    <instances>
+        <instance moduleIdRef="ESC_08eee895fcbcc938e3e8bb2d57f1b52a_16" modelIndex="85410276" path="/root/Documents/Fritzing/parts/user/ESC_08eee895fcbcc938e3e8bb2d57f1b52a_16.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Brushless Motor_ec352d2d10df8984333d76deead4a4ab_4" modelIndex="85410278" path="/root/Documents/Fritzing/parts/user/Brushless Motor_ec352d2d10df8984333d76deead4a4ab_4.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Li-Po Battery_2d46b772bae8f45c555a3ea9265861cf_7" modelIndex="85410280" path="/root/Documents/Fritzing/parts/user/Li-Po Battery_2d46b772bae8f45c555a3ea9265861cf_7.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix101217_0a75b3c93b48ba5317ea9a9ffae55eb2_3" modelIndex="85410522" path="/root/Documents/Fritzing/parts/user/prefix101217_0a75b3c93b48ba5317ea9a9ffae55eb2_3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="332aa285ac350bd6a19fd4c97693791f" modelIndex="85410524" path="/root/Documents/Fritzing/parts/user/PCF8574.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="332aa285ac350bd6a19fd4c97693791f" modelIndex="85410532" path="/root/Documents/Fritzing/parts/user/PCF8574.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ESC_08eee895fcbcc938e3e8bb2d57f1b52a_16" modelIndex="85410533" path="/root/Documents/Fritzing/parts/user/ESC_08eee895fcbcc938e3e8bb2d57f1b52a_16.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Brushless Motor_ec352d2d10df8984333d76deead4a4ab_4" modelIndex="85410534" path="/root/Documents/Fritzing/parts/user/Brushless Motor_ec352d2d10df8984333d76deead4a4ab_4.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Li-Po Battery_2d46b772bae8f45c555a3ea9265861cf_7" modelIndex="85410535" path="/root/Documents/Fritzing/parts/user/Li-Po Battery_2d46b772bae8f45c555a3ea9265861cf_7.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="adafruit_046495de451e540e0a73a3ca34ad6bf0_1" modelIndex="85410932" path="/root/Documents/Fritzing/parts/user/adafruit_046495de451e540e0a73a3ca34ad6bf0_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LCD1602-I2C" modelIndex="85411004" path="/root/Documents/Fritzing/parts/user/LCD1602-I2C_.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="c7cab155adbdc5e675838ce7405e80cd_28" modelIndex="85411052" path="/root/Documents/Fritzing/parts/user/generic_ic_dip_22_300mil.fzp_c7cab155adbdc5e675838ce7405e80cd_28.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="c26e1ac9f0aaab0c9a9ab60d4674c595_35" modelIndex="85412940" path="/root/Documents/Fritzing/parts/user/TCRT5000_sensor_module.fzp_c26e1ac9f0aaab0c9a9ab60d4674c595_35.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="c26e1ac9f0aaab0c9a9ab60d4674c595_35" modelIndex="85413173" path="/root/Documents/Fritzing/parts/user/TCRT5000_sensor_module.fzp_c26e1ac9f0aaab0c9a9ab60d4674c595_35.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LCD-GDM1602K" modelIndex="85413174" path="/usr/share/fritzing/parts/core/lcd-GDM1602K.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="c7cab155adbdc5e675838ce7405e80cd_28" modelIndex="85413175" path="/root/Documents/Fritzing/parts/user/generic_ic_dip_22_300mil.fzp_c7cab155adbdc5e675838ce7405e80cd_28.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Breadboard-RSR03MB102-ModuleID" modelIndex="85413176" path="/usr/share/fritzing/parts/core/breadboard2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="raspberry_pi_3_rev-1.2_93cd6203faf853cc01c7e5d7831d3687_3" modelIndex="85413177" path="/usr/share/fritzing/parts/obsolete/Raspberry Pi 3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Li-Po Battery_2d46b772bae8f45c555a3ea9265861cf_7" modelIndex="85413178" path="/root/Documents/Fritzing/parts/user/Li-Po Battery_2d46b772bae8f45c555a3ea9265861cf_7.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ESC_08eee895fcbcc938e3e8bb2d57f1b52a_16" modelIndex="85413179" path="/root/Documents/Fritzing/parts/user/ESC_08eee895fcbcc938e3e8bb2d57f1b52a_16.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Brushless Motor_ec352d2d10df8984333d76deead4a4ab_4" modelIndex="85413180" path="/root/Documents/Fritzing/parts/user/Brushless Motor_ec352d2d10df8984333d76deead4a4ab_4.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
